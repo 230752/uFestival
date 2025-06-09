@@ -1,0 +1,246 @@
+{
+  "en": [
+    {
+      "position": [220, 555],
+      "popup": "Entrance/Exit",
+      "icon": "marker_entrance_exit.svg"
+    },
+    {
+      "position": [325, 165],
+      "popup": "Ponton (main stage, headliners)",
+      "icon": "marker_stage1_ponton.svg"
+    },
+    {
+      "position": [250, 62],
+      "popup": "Toilet",
+      "icon": "marker_toilet.svg"
+    },
+    {
+      "position": [265, 130],
+      "popup": "Merchandise",
+      "icon": "marker_merchandise.svg"
+    },
+    {
+      "position": [315, 210],
+      "popup": "Ice Cream",
+      "icon": "marker_ice_cream.svg"
+    },
+    {
+      "position": [330, 100],
+      "popup": "Food",
+      "icon": "marker_food.svg"
+    },
+    {
+      "position": [280, 90],
+      "popup": "Bar",
+      "icon": "marker_bar.svg"
+    },
+    {
+      "position": [245, 192],
+      "popup": "Locker",
+      "icon": "marker_locker.svg"
+    },
+    {
+      "position": [250, 243],
+      "popup": "Locker",
+      "icon": "marker_locker.svg"
+    },
+    {
+      "position": [425, 312],
+      "popup": "Ice Cream",
+      "icon": "marker_ice_cream.svg"
+    },
+    {
+      "position": [420, 282],
+      "popup": "Food",
+      "icon": "marker_food.svg"
+    },
+    {
+      "position": [438, 255],
+      "popup": "Merchandise",
+      "icon": "marker_merchandise.svg"
+    },
+    {
+      "position": [410, 430],
+      "popup": "The Lake (emerging talent)",
+      "icon": "marker_stage2_the_lake.svg"
+    },
+    {
+      "position": [500, 392],
+      "popup": "Toilet",
+      "icon": "marker_toilet.svg"
+    },
+    {
+      "position": [438, 420],
+      "popup": "Bar",
+      "icon": "marker_bar.svg"
+    },
+    {
+      "position": [435, 555],
+      "popup": "The Club (theatre and stand-up comedy)",
+      "icon": "marker_stage3_the_club.svg"
+    },
+    {
+      "position": [472, 503],
+      "popup": "Ice Cream",
+      "icon": "marker_ice_cream.svg"
+    },
+    {
+      "position": [445, 525],
+      "popup": "Merchandise",
+      "icon": "marker_merchandise.svg"
+    },
+    {
+      "position": [485, 575],
+      "popup": "Bar",
+      "icon": "marker_bar.svg"
+    },
+    {
+      "position": [535, 725],
+      "popup": "Hangar (non-stop house/techno/dance)",
+      "icon": "marker_stage4_hangar.svg"
+    },
+    {
+      "position": [498, 648],
+      "popup": "Bar",
+      "icon": "marker_bar.svg"
+    },
+    {
+      "position": [543, 665],
+      "popup": "Ice Cream",
+      "icon": "marker_ice_cream.svg"
+    },
+    {
+      "position": [510, 745],
+      "popup": "Toilet",
+      "icon": "marker_toilet.svg"
+    },
+    {
+      "position": [480, 145],
+      "popup": "First Aid",
+      "icon": "marker_first_aid.svg"
+    }
+  ],
+  "nl": [
+    {
+      "position": [220, 555],
+      "popup": "Ingang/Uitgang",
+      "icon": "marker_entrance_exit.svg"
+    },
+    {
+      "position": [325, 165],
+      "popup": "Ponton (hoofdpodium, headliners)",
+      "icon": "marker_stage1_ponton.svg"
+    },
+    {
+      "position": [250, 62],
+      "popup": "Toilet",
+      "icon": "marker_toilet.svg"
+    },
+    {
+      "position": [265, 130],
+      "popup": "Merchandise",
+      "icon": "marker_merchandise.svg"
+    },
+    {
+      "position": [315, 210],
+      "popup": "IJs",
+      "icon": "marker_ice_cream.svg"
+    },
+    {
+      "position": [330, 100],
+      "popup": "Eten",
+      "icon": "marker_food.svg"
+    },
+    {
+      "position": [280, 90],
+      "popup": "Bar",
+      "icon": "marker_bar.svg"
+    },
+    {
+      "position": [245, 192],
+      "popup": "Locker",
+      "icon": "marker_locker.svg"
+    },
+    {
+      "position": [250, 243],
+      "popup": "Locker",
+      "icon": "marker_locker.svg"
+    },
+    {
+      "position": [425, 312],
+      "popup": "IJs",
+      "icon": "marker_ice_cream.svg"
+    },
+    {
+      "position": [420, 282],
+      "popup": "Eten",
+      "icon": "marker_food.svg"
+    },
+    {
+      "position": [438, 255],
+      "popup": "Merchandise",
+      "icon": "marker_merchandise.svg"
+    },
+    {
+      "position": [410, 430],
+      "popup": "The Lake (nieuw talent)",
+      "icon": "marker_stage2_the_lake.svg"
+    },
+    {
+      "position": [500, 392],
+      "popup": "Toilet",
+      "icon": "marker_toilet.svg"
+    },
+    {
+      "position": [438, 420],
+      "popup": "Bar",
+      "icon": "marker_bar.svg"
+    },
+    {
+      "position": [435, 555],
+      "popup": "The Club (theater en stand-up comedy)",
+      "icon": "marker_stage3_the_club.svg"
+    },
+    {
+      "position": [472, 503],
+      "popup": "IJs",
+      "icon": "marker_ice_cream.svg"
+    },
+    {
+      "position": [445, 525],
+      "popup": "Merchandise",
+      "icon": "marker_merchandise.svg"
+    },
+    {
+      "position": [485, 575],
+      "popup": "Bar",
+      "icon": "marker_bar.svg"
+    },
+    {
+      "position": [535, 725],
+      "popup": "Hangar (non-stop house/techno/dance)",
+      "icon": "marker_stage4_hangar.svg"
+    },
+    {
+      "position": [498, 648],
+      "popup": "Bar",
+      "icon": "marker_bar.svg"
+    },
+    {
+      "position": [543, 665],
+      "popup": "IJs",
+      "icon": "marker_ice_cream.svg"
+    },
+    {
+      "position": [510, 745],
+      "popup": "Toilet",
+      "icon": "marker_toilet.svg"
+    },
+    {
+      "position": [480, 145],
+      "popup": "Eerste hulp",
+      "icon": "marker_first_aid.svg"
+    }
+  ]
+}

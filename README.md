@@ -1,59 +1,12 @@
-# Festival PWA
-https://u230752.gluwebsite.nl/ufestival/home
+# React + Vite
 
-A modern Progressive Web App for managing and exploring festival content, built using **React**, **Vite**, and **Tailwind CSS**.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Table of Contents
+Currently, two official plugins are available:
 
-- [Overview](#overview)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Folder Structure](#folder-structure)
-- [PWA Configuration](#pwa-configuration)
-- [Deployment](#deployment)
-- [License](#license)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
----
+## Expanding the ESLint configuration
 
-## Overview
-
-This project offers a responsive, installable web experience designed for festival-goers. It includes features like interactive maps, artist schedules, and offline access via PWA support.
-
----
-
-## Tech Stack
-
-- **React** – UI development
-- **Vite** – Lightning-fast development tooling
-- **Tailwind CSS** – Utility-first responsive design
-- **PWA** – Installable, offline-capable app
-
----
-
-## Features
-
-- Fast development and build performance with Vite
-- Fully responsive design using Tailwind CSS
-- Installable PWA with offline support
-- Artist schedule and interactive event map
-- Multilingual icon support (e.g., EN/NL flags)
-- JSON-based content management
-
----
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v16 or higher recommended)
-- npm or yarn
-
-### Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/your-username/uFestival.git
-cd my-app
-npm install
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

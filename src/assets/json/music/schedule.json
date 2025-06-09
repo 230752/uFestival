@@ -1,0 +1,40 @@
+{
+  "Saturday": [
+    {
+      "stage": "Ponton",
+      "artist": "Armin van Buuren",
+      "start": "10:30",
+      "end": "11:45"
+    },
+    {
+      "stage": "Ponton",
+      "artist": "Kensington",
+      "start": "12:30",
+      "end": "13:45"
+    },
+    {
+      "stage": "Ponton",
+      "artist": "De Staat",
+      "start": "14:30",
+      "end": "16:15"
+    },
+    {
+      "stage": "Ponton",
+      "artist": "Navarone",
+      "start": "17:00",
+      "end": "18:15"
+    },
+    {
+      "stage": "Ponton",
+      "artist": "Dotan",
+      "start": "19:15",
+      "end": "21:00"
+    },
+    {
+      "stage": "Ponton",
+      "artist": "Froukje",
+      "start": "22:00",
+      "end": "23:45"
+    }
+  ]
+}

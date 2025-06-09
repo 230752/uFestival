@@ -1,0 +1,22 @@
+{
+  "nl": {
+    "welcome": "Welkom",
+    "festival": "Love U Festival!",
+    "goToSchedule": "Ga naar Schema",
+    "goToMap": "Ga naar Map",
+    "reminder": "Vergeet niet je polsbandje op te halen bij de ingang en geniet van het festival!",
+    "notificationsTitle": "Meldingen & Nieuws",
+    "notificationsText": "Er zijn momenteel nog geen meldingen of nieuws. Kom tijdens het festival terug voor updates!",
+    "footer": "&copy; {year} Love U Festival"
+  },
+  "en": {
+    "welcome": "Welcome",
+    "festival": "Love U Festival!",
+    "goToSchedule": "Go to Schedule",
+    "goToMap": "Go to Map",
+    "reminder": "Don't forget to pick up your wristband at the entrance and enjoy the festival!",
+    "notificationsTitle": "Notifications & News",
+    "notificationsText": "There are currently no notifications or news. Check back during the festival for updates!",
+    "footer": "&copy; {year} Love U Festival"
+  }
+}
