@@ -53,6 +53,6 @@ This project offers a responsive, installable web experience designed for festiv
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/festival-pwa.git
-cd festival-pwa
+git clone https://github.com/your-username/uFestival.git
+cd my-app
 npm install
